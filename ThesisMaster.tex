@@ -40,27 +40,27 @@
 \setcounter{page}{1}
 \pagenumbering{roman}
 
-%\input{TitlePage}   % Input the Title Page (no page number, but counts as roman numeral 'i')
-%\input{Approval}    % Input the Approval Page (no page number)
-
-%\input{Contents}    % Generate and input a Table of Contents and List of Figures/Tables/etc.(roman numeral page number 'iii')
-%\input{Abstract}
+\input{TitlePage}   % Input the Title Page (no page number, but counts as roman numeral 'i')
+\input{Approval}    % Input the Approval Page (no page number)
+\input{Acknowledge} % Input the Acknowledgement Page (roman numeral page number 'ii')
+\input{Contents}    % Generate and input a Table of Contents and List of Figures/Tables/etc.(roman numeral page number 'iii')
+\input{Abstract}
 
 \newpage
 \setcounter{page}{1}
 \pagenumbering{arabic}
 \addtocontents{toc}{\protect\contentsline{chapter}{CHAPTER}{}{}}
 
-%\input{Introduction}
-%\input{Chapter_01}
-%\input{Chapter_02}
-%\input{Chapter_03}
-%\input{Chapter_04}
-%\input{Summary}
-\input{Acknowledge} % Input the Acknowledgement Page (roman numeral page number 'ii')
+\input{Introduction}
+\input{Chapter_01}
+\input{Chapter_02}
+\input{Chapter_03}
+\input{Chapter_04}
+\input{Summary}
+\input{Appendix}
+\input{Bibliography}
+
 %\input{Fucknowledge}
-%\input{Appendix}
-%\input{Bibliography}
-%\input{Vita}
+\input{Vita}
 
 \end{document}
