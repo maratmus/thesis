@@ -1,0 +1,49 @@
+\contentsline {chapter}{ACKNOWLEDGMENTS}{ii}{section*.1}
+\contentsline {chapter}{LIST OF TABLES}{vi}{section*.2}
+\contentsline {chapter}{LIST OF FIGURES}{vii}{section*.3}
+\contentsline {chapter}{ABSTRACT}{xii}{section*.4}
+\contentsline {chapter}{CHAPTER}{}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Data}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}SDSS}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Stripe 82}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Structure of SDSS Stripe 82 files}{7}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}WISE}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}unWISE}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Structure of unWISE files}{8}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Construction of the multiband catalog over Stripe 82}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Preparatory work with SDSS images and optical catalog}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Region of overlapping unWISE images}{13}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}SDSS PSF construction}{14}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Construction of the optical part of the catalog}{18}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Magnitude error correction}{20}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Preparatory work with unWISE files}{21}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}unWISE PSF construction}{22}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Naming convention for the processed files}{23}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Template fitting with {\tt TPHOT}}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}{\tt TPHOT} output files}{26}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Matching optical and IR catalogs}{27}{section.3.4}
+\contentsline {chapter}{\numberline {4}Mass and redshift estimation}{28}{chapter.4}
+\contentsline {section}{\numberline {4.1}SED fitting}{30}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Choice of SED fitting codes}{30}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}EAZY and FAST}{32}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Reliability of IR data}{33}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Stellar masses}{33}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Catalog post-procession}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Star-galaxy separation}{36}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Sources treatment in overlapping regions and around bright stars}{39}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Results}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Binning in redshift}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}GSMD and comparison to the results of other groups}{46}{section.5.2}
+\contentsline {chapter}{\numberline {6}Summary and concluding remarks}{49}{chapter.6}
+\contentsline {section}{\numberline {6.1}Conclusions}{49}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future work}{50}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Optical dropouts in WISE}{52}{subsection.6.2.1}
+\contentsline {chapter}{APPENDIX}{55}{section*.5}
+\contentsline {chapter}{\numberline {A}Parameters for applied codes}{55}{appendix.A}
+\contentsline {section}{\numberline {A.1}SExtractor parameters for x$\_$matched$\_$u catalogs}{55}{section.A.1}
+\contentsline {section}{\numberline {A.2}TPHOT parameters}{57}{section.A.2}
+\contentsline {section}{\numberline {A.3}EAZY parameters}{59}{section.A.3}
+\contentsline {section}{\numberline {A.4}FAST parameters}{60}{section.A.4}
+\contentsline {chapter}{BIBLIOGRAPHY}{62}{section*.6}
+\contentsline {chapter}{VITA}{74}{section*.8}

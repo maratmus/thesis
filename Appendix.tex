@@ -1,0 +1,176 @@
+\newpage
+\phantomsection\addcontentsline{toc}{chapter}{APPENDIX}
+\appendix
+
+\chapter{Parameters for applied codes}\label{AP_01}
+
+\section{SExtractor parameters for x$\_$matched$\_$u catalogs}
+\label{sec:sex}
+
+\begin{tt}
+DETECT$\_$TYPE      CCD            $\#$ CCD (linear) or PHOTO (with gamma correction)\\
+DETECT$\_$MINAREA   3              $\#$ minimum number of pixels above threshold\\
+THRESH$\_$TYPE      RELATIVE       $\#$ threshold type: RELATIVE (in sigmas)\\
+                                $\#$ or ABSOLUTE (in ADUs)\\
+DETECT$\_$THRESH    2.5            $\#$ <sigmas> or <threshold>,<ZP> in mag.arcsec-2\\
+ANALYSIS$\_$THRESH  2.5            $\#$ <sigmas> or <threshold>,<ZP> in mag.arcsec-2\\
+FILTER           Y              $\#$ apply filter for detection (Y or N)?\\
+FILTER$\_$NAME      gauss$\_$2.0$\_$5x5.conv   $\#$ name of the file containing the filter\\
+FILTER$\_$THRESH                   $\#$ Threshold[s] for retina filtering\\
+DEBLEND$\_$NTHRESH  32             $\#$ Number of deblending sub-thresholds\\
+DEBLEND$\_$MINCONT  0.005          $\#$ Minimum contrast parameter for deblending\\
+CLEAN            Y              $\#$ Clean spurious detections? (Y or N)?\\
+CLEAN$\_$PARAM      1.0            $\#$ Cleaning efficiency\\
+MASK$\_$TYPE        CORRECT        $\#$ type of detection MASKing: can be one of\\
+                                $\#$ NONE, BLANK or CORRECT\\
+WEIGHT$\_$TYPE      MAP$\_$WEIGHT,MAP$\_$WEIGHT           $\#$ type of WEIGHTing: NONE, BACKGROUND,\\
+                                $\#$ MAP$\_$RMS, MAP$\_$VAR or MAP$\_$WEIGHT\\
+WEIGHT$\_$GAIN      N,N              $\#$ modulate gain (E/ADU) with weights? (Y/N)\\
+WEIGHT$\_$THRESH                   $\#$ weight threshold[s] for bad pixels\\
+FLAG$\_$IMAGE       flag.fits      $\#$ filename for an input FLAG-image\\
+FLAG$\_$TYPE        OR             $\#$ flag pixel combination: OR, AND, MIN, MAX\\
+                                $\#$ or MOST\\
+PHOT$\_$APERTURES   9.0            $\#$ MAG$\_$APER aperture diameter(s) in pixels\\
+PHOT$\_$AUTOPARAMS  2.5, 3.5       $\#$ MAG$\_$AUTO parameters: <Kron$\_$fact>,<min$\_$radius>\\
+PHOT$\_$PETROPARAMS 2.0, 3.5       $\#$ MAG$\_$PETRO parameters: <Petrosian$\_$fact>,\\
+                                $\#$ <min$\_$radius>\\
+PHOT$\_$AUTOAPERS   0.0,0.0        $\#$ <estimation>,<measurement> minimum apertures\\
+                                $\#$ for MAG$\_$AUTO and MAG$\_$PETRO\\
+PHOT$\_$FLUXFRAC    0.5            $\#$ flux fraction[s] used for FLUX$\_$RADIUS\\
+SATUR$\_$LEVEL      25000.0        $\#$ level (in ADUs) at which arises saturation\\
+SATUR$\_$KEY        SATURATE       $\#$ keyword for saturation level (in ADUs)\\
+MAG$\_$ZEROPOINT    00.0\\
+MAG$\_$GAMMA        4.0            $\#$ gamma of emulsion (for photographic scans)\\
+GAIN             0.0            $\#$ detector gain in e-/ADU\\
+GAIN$\_$KEY         GAIN           $\#$ keyword for detector gain in e-/ADU\\
+PIXEL$\_$SCALE      0.396            $\#$ size of pixel in arcsec (0=use FITS WCS info)\\
+SEEING$\_$FWHM      1.5            $\#$ stellar FWHM in arcsec\\
+STARNNW$\_$NAME     default.nnw    $\#$ Neural-Network$\_$Weight table filename\\
+BACK$\_$TYPE        AUTO           $\#$ AUTO or MANUAL\\
+BACK$\_$VALUE       0.0            $\#$ Default background value in MANUAL mode\\
+BACK$\_$SIZE        8\\
+BACK$\_$FILTERSIZE  3              $\#$ Background filter: <size> or <width>,<height>\\
+BACKPHOTO$\_$TYPE   GLOBAL         $\#$ can be GLOBAL or LOCAL\\
+BACKPHOTO$\_$THICK  24             $\#$ thickness of the background LOCAL annulus\\
+BACK$\_$FILTTHRESH  0.0            $\#$ Threshold above which the background-\\
+                                $\#$ map filter operates\\
+  \end{tt}
+
+
+\section{TPHOT parameters}
+\label{sec:tphot}
+\begin{tt}
+
+order standard $\#$1st pass\\
+order standard2 $\#$2nd pass\\
+usereal         True\\
+usemodels       False\\
+useunresolved   False\\
+normalize       true\\
+subbckg         True\\
+savecut         false\\
+cutoutdir       cutouts\\
+cutoutcat       cutouts$\/$cutouts.cat\\
+modelscat       models$\/$models.cat\\
+modelsdir       models\\
+culling         false\\
+errtype         wht\\
+rmsconstant     1\\
+relscale        7\\
+FFTconv         true\\
+multikernels    false\\
+mkext           false\\
+kernellookup    ch1$\_$dancecard.txt\\
+templatedir     templates\\
+templatecat     templates$\/$templates.cat\\
+fitpars          tpipe$\_$tphot.param1\\
+tphotcat         lores$\_$tphot.cat$\_$pass1\\
+tphotcell        lores$\_$tphot.cell$\_$pass1\\
+tphotcovar       lores$\_$tphot.covar$\_$pass1\\
+fitting         single\\
+cellmask        true\\
+maskfloor       1e-9\\
+fitbackground   false\\
+fit$\_$loc$\_$bkgd    0\\
+writecovar      true\\
+threshold       0.0\\
+linsyssolver    lu\\
+clip            true\\
+rmscheck        0\\
+modelfile       lores$\_$collage$\_$pass1.fits\\
+dzonesize       5\\
+maxshift        0.5\\
+ddiagfile       ddiags.txt\\
+dlogfile        dlog.txt\\
+dancefft        true\\
+nneighinterp    0\\
+\end{tt}
+
+\section{EAZY parameters}
+\label{sec:eazy}
+\begin{tt}
+FILTER$\_$FORMAT        1                  $\#$ Format of FILTERS$\_$RES file -- 0: energy-  1: photon-counting detector\\
+SMOOTH$\_$FILTERS       y                  $\#$ Smooth filter curves with Gaussian\\
+SMOOTH$\_$SIGMA         100.               $\#$ Gaussian sigma (in Angstroms) to smooth filters\\
+TEMPLATES$\_$FILE       eazy$\_$v1.3.spectra.param $\#$ Template definition file\\
+TEMPLATE$\_$COMBOS      a                  $\#$ Template combination \\
+NMF$\_$TOLERANCE        1.e-4              $\#$ Tolerance for non-negative combinations (TEMPLATE$\_$COMBOS=a)\\
+TEMP$\_$ERR$\_$A2          1.00               $\#$ Template error amplitude\\
+SYS$\_$ERR              0.00               $\#$ Systematic flux error\\
+APPLY$\_$IGM            y                  $\#$ Apply Madau 1995 IGM absorption\\
+DUMP$\_$TEMPLATE$\_$CACHE  n                  $\#$ Write binary template cache\\
+USE$\_$TEMPLATE$\_$CACHE   n                  $\#$ Load in template cache\\
+CACHE$\_$FILE           tempfilt.dat       $\#$ Template cache file (in OUTPUT$\_$DIRECTORY)\\
+NOT$\_$OBS$\_$THRESHOLD    -90                $\#$ Ignore flux point if <NOT$\_$OBS$\_$THRESH\\
+N$\_$MIN$\_$COLORS         4                  $\#$ Require N$\_$MIN$\_$COLORS to fit\\
+CHI2$\_$SCALE           1.0                $\#$ Scale ML Chi-squared values to improve confidence intervals\\
+APPLY$\_$PRIOR          n                  $\#$ Apply apparent magnitude prior\\
+PRIOR$\_$ABZP           23.9               $\#$ AB zeropoint of fluxes in catalog.!\\
+FIX$\_$ZSPEC            n                  $\#$ Fix redshift to catalog zspec\\
+Z$\_$MIN                0.01               $\#$ Minimum redshift\\
+Z$\_$MAX                0.9                $\#$ Maximum redshift\\
+Z$\_$STEP               0.01               $\#$ Redshift step size\\
+Z$\_$STEP$\_$TYPE          1                  $\#$  0 = ZSTEP, 1 = Z$\_$STEP*(1+z)\\
+GET$\_$ZP$\_$OFFSETS       n                  $\#$ Look for zphot.zeropoint file and compute zeropoint offsets\\
+H0                   70.0               $\#$  Hubble constant\\
+OMEGA$\_$M              0.3                $\#$ Omega matter\\
+OMEGA$\_$L              0.7                $\#$ Omega lambda\\
+\end{tt}
+
+\section{FAST parameters}
+\label{sec:fast}
+\begin{tt}SAVE$\_$SIM           = 0             $\#$ 0 / 1			\\
+SFR$\_$AVG            = 0             $\#$ 0, 100 Myr, 300 Myr etc\\		
+INTRINSIC$\_$BEST$\_$FIT = 0             $\#$ 0 / 1				\\
+BEST$\_$SFHS          = 0             $\#$ 0 / 1\\
+SFH$\_$OUTPUT$\_$STEP    = 10            $\#$ 10 Myr, 100 Myr etc\\
+SFH$\_$OUTPUT         = 'sfr'         $\#$ 'sfr' or 'mass'\\
+REST$\_$MAG           = []            $\#$ [140,142,161] for UVJ colors\\
+CONTINUUM$\_$INDICES  = ''\\
+OUTPUT$\_$COLUMNS     = []            $\#$ ['id','Av','lmass','lsfr', ...]\\
+LIBRARY             = 'bc03'         $\#$ 'bc03' / 'ma05' / 'co11'\\
+RESOLUTION          = 'hr'           $\#$ 'pr' / 'lr' / 'hr'\\
+IMF                 = 'ch'           $\#$ 'ch' / 'sa' / 'kr'\\
+SFH                 = 'exp'          $\#$ 'exp' / 'del' / 'tru'\\
+DUST$\_$LAW            = 'calzetti'     $\#$ 'calzetti' / 'mw' / 'kc' / 'noll'\\
+LOG$\_$TAU$\_$MIN    = 6.5            $\#$ log [yr]\\
+LOG$\_$TAU$\_$MAX    = 11.0           $\#$ log [yr]\\
+LOG$\_$TAU$\_$STEP   = 0.1            $\#$ log [yr], min 0.1\\
+LOG$\_$AGE$\_$MIN    = 6.0            $\#$ log [yr]\\
+LOG$\_$AGE$\_$MAX    = 10.2           $\#$ log [yr]\\
+LOG$\_$AGE$\_$STEP   = 0.1            $\#$ log [yr]\\
+NO$\_$MAX$\_$AGE     = 0              $\#$ 0 / 1\\
+Z$\_$MIN          = 0.01           $\#$ Cannot be 0.0\\
+Z$\_$MAX          = 0.90\\
+Z$\_$STEP         = 0.005\\
+Z$\_$STEP$\_$TYPE    = 0              $\#$ 0: Z$\_$STEP, 1: Z$\_$STEP*(1+z)\\
+A$\_$V$\_$MIN        = 0.             $\#$ [mag]\\
+A$\_$V$\_$MAX        = 1.6            $\#$ [mag]\\
+A$\_$V$\_$STEP       = 0.05           $\#$ [mag]\\
+METAL          = [0.02]         $\#$ [0.0096,0.019,0.03]\\
+NO$\_$CACHE       = 0              $\#$ 0 / 1\\
+H0             = 70.0               $\#$ Hubble constant\\
+OMEGA$\_$M        = 0.3                $\#$ Omega matter\\
+OMEGA$\_$L        = 0.7                $\#$ Omega lambda\\
+SAVE$\_$CHI$\_$GRID  = 0          $\#$ 0 / 1\\
+\end{tt}

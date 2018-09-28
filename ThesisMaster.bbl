@@ -1,0 +1,624 @@
+\begin{thebibliography}{62}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adelman-McCarthy and et~al.(2007)]{Adelman-McCarthy2007}
+J.~K. Adelman-McCarthy and et~al.
+\newblock Vizier online data catalog: The sdss photometric catalog, release 5
+  (adelman-mccarthy+, 2007).
+\newblock \emph{VizieR Online Data Catalog}, 2276, March 2007.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2007yCat.2276....0A}.
+
+\bibitem[Annis et~al.(2014)Annis, Soares-Santos, Strauss, Becker, Dodelson,
+  Fan, Gunn, Hao, Ivezi{\'c}, Jester, Jiang, Johnston, Kubo, Lampeitl, Lin,
+  Lupton, Miknaitis, Seo, Simet, and Yanny]{Annis2014}
+J.~Annis, M.~Soares-Santos, M.~A. Strauss, A.~C. Becker, S.~Dodelson, X.~Fan,
+  J.~E. Gunn, J.~Hao, {\v Z}.~Ivezi{\'c}, S.~Jester, L.~Jiang, D.~E. Johnston,
+  J.~M. Kubo, H.~Lampeitl, H.~Lin, R.~H. Lupton, G.~Miknaitis, H.-J. Seo,
+  M.~Simet, and B.~Yanny.
+\newblock The sloan digital sky survey coadd: 275 deg$^{2}$ of deep sloan
+  digital sky survey imaging on stripe 82.
+\newblock \emph{\apj}, 794:\penalty0 120, October 2014.
+\newblock \doi{10.1088/0004-637X/794/2/120}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014ApJ...794..120A}.
+
+\bibitem[Arnouts and Ilbert(2011)]{Arnouts2011}
+S.~Arnouts and O.~Ilbert.
+\newblock Lephare: Photometric analysis for redshift estimate.
+\newblock Astrophysics Source Code Library, August 2011.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011ascl.soft08009A}.
+
+\bibitem[Baum(1957)]{1957AJ.....62....6B}
+W.~A. Baum.
+\newblock Photoelectric determinations of redshifts beyond 0.2 c.
+\newblock \emph{\aj}, 62:\penalty0 6--7, February 1957.
+\newblock \doi{10.1086/107433}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1957AJ.....62....6B}.
+
+\bibitem[Ben{\'{\i}}tez(2011)]{2011ascl.soft08011B}
+N.~Ben{\'{\i}}tez.
+\newblock Bpz: Bayesian photometric redshift code.
+\newblock Astrophysics Source Code Library, August 2011.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011ascl.soft08011B}.
+
+\bibitem[Bertin(2011)]{Bertin2011}
+E.~Bertin.
+\newblock Automated morphometry with sextractor and psfex.
+\newblock In I.~N. {Evans}, A.~{Accomazzi}, D.~J. {Mink}, and A.~H. {Rots},
+  editors, \emph{Astronomical Data Analysis Software and Systems XX}, volume
+  442 of \emph{Astronomical Society of the Pacific Conference Series}, page
+  435, July 2011.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011ASPC..442..435B}.
+
+\bibitem[Bertin and Arnouts(1996)]{Bertin1996}
+E.~Bertin and S.~Arnouts.
+\newblock Sextractor: Software for source extraction.
+\newblock \emph{\aaps}, 117:\penalty0 393--404, June 1996.
+\newblock \doi{10.1051/aas:1996164}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1996A%26AS..117..393B}.
+
+\bibitem[Bertin et~al.(2002)Bertin, Mellier, Radovich, Missonnier, Didelon, and
+  Morin]{Bertin2002}
+E.~Bertin, Y.~Mellier, M.~Radovich, G.~Missonnier, P.~Didelon, and B.~Morin.
+\newblock The terapix pipeline.
+\newblock In D.~A. {Bohlender}, D.~{Durand}, and T.~H. {Handley}, editors,
+  \emph{Astronomical Data Analysis Software and Systems XI}, volume 281 of
+  \emph{Astronomical Society of the Pacific Conference Series}, page 228, 2002.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2002ASPC..281..228B}.
+
+\bibitem[Bielby et~al.(2012)Bielby, Hudelot, McCracken, Ilbert, Daddi,
+  Le~F{\`e}vre, Gonzalez-Perez, Kneib, Marmo, Mellier, Salvato, Sanders, and
+  Willott]{2012A&A...545A..23B}
+R.~Bielby, P.~Hudelot, H.~J. McCracken, O.~Ilbert, E.~Daddi, O.~Le~F{\`e}vre,
+  V.~Gonzalez-Perez, J.-P. Kneib, C.~Marmo, Y.~Mellier, M.~Salvato, D.~B.
+  Sanders, and C.~J. Willott.
+\newblock The wircam deep survey. i. counts, colours, and mass-functions
+  derived from near-infrared imaging in the cfhtls deep fields.
+\newblock \emph{\aap}, 545:\penalty0 A23, September 2012.
+\newblock \doi{10.1051/0004-6361/201118547}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2012A%26A...545A..23B}.
+
+\bibitem[Blanton and Roweis(2017)]{Blanton2017}
+M.~R. Blanton and S.~Roweis.
+\newblock kcorrect: Calculate k-corrections between observed and desired
+  bandpasses.
+\newblock Astrophysics Source Code Library, January 2017.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2017ascl.soft01010B}.
+
+\bibitem[Bolzonella et~al.(2011)Bolzonella, Miralles, and
+  Pell{\'o}]{Bolzonella2011}
+M.~Bolzonella, J.-M. Miralles, and R.~Pell{\'o}.
+\newblock Hyperz: Photometric redshift code.
+\newblock Astrophysics Source Code Library, August 2011.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011ascl.soft08010B}.
+
+\bibitem[Bouwens et~al.(2004{\natexlab{a}})Bouwens, Illingworth, Thompson,
+  Blakeslee, Dickinson, Broadhurst, Eisenstein, Fan, Franx, Meurer, and van
+  Dokkum]{2004ApJ...606L..25B}
+R.~J. Bouwens, G.~D. Illingworth, R.~I. Thompson, J.~P. Blakeslee, M.~E.
+  Dickinson, T.~J. Broadhurst, D.~J. Eisenstein, X.~Fan, M.~Franx, G.~Meurer,
+  and P.~van Dokkum.
+\newblock Star formation at z \~{} 6: The hubble ultra deep parallel fields.
+\newblock \emph{\apjl}, 606:\penalty0 L25--L28, May 2004{\natexlab{a}}.
+\newblock \doi{10.1086/421016}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2004ApJ...606L..25B}.
+
+\bibitem[Bouwens et~al.(2004{\natexlab{b}})Bouwens, Thompson, Illingworth,
+  Franx, van Dokkum, Fan, Dickinson, Eisenstein, and
+  Rieke]{2004ApJ...616L..79B}
+R.~J. Bouwens, R.~I. Thompson, G.~D. Illingworth, M.~Franx, P.~G. van Dokkum,
+  X.~Fan, M.~E. Dickinson, D.~J. Eisenstein, and M.~J. Rieke.
+\newblock Galaxies at z\~{}7-8: z$_{850}$-dropouts in the hubble ultra deep
+  field.
+\newblock \emph{\apjl}, 616:\penalty0 L79--L82, December 2004{\natexlab{b}}.
+\newblock \doi{10.1086/426503}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2004ApJ...616L..79B}.
+
+\bibitem[Brammer et~al.(2008)Brammer, van Dokkum, and Coppi]{Brammer2008}
+G.~B. Brammer, P.~G. van Dokkum, and P.~Coppi.
+\newblock Eazy: A fast, public photometric redshift code.
+\newblock \emph{\apj}, 686:\penalty0 1503-1513, October 2008.
+\newblock \doi{10.1086/591786}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2008ApJ...686.1503B}.
+
+\bibitem[Bruzual and Charlot(2003)]{2003MNRAS.344.1000B}
+G.~Bruzual and S.~Charlot.
+\newblock Stellar population synthesis at the resolution of 2003.
+\newblock \emph{\mnras}, 344:\penalty0 1000--1028, October 2003.
+\newblock \doi{10.1046/j.1365-8711.2003.06897.x}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2003MNRAS.344.1000B}.
+
+\bibitem[Bundy et~al.(2012)Bundy, Hogg, Higgs, Nichol, Yasuda, Masters, Lang,
+  and Wake]{2012AJ....144..188B}
+K.~Bundy, D.~W. Hogg, T.~D. Higgs, R.~C. Nichol, N.~Yasuda, K.~L. Masters,
+  D.~Lang, and D.~A. Wake.
+\newblock Synmag photometry: A fast tool for catalog-level matched colors of
+  extended sources.
+\newblock \emph{\aj}, 144:\penalty0 188, December 2012.
+\newblock \doi{10.1088/0004-6256/144/6/188}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2012AJ....144..188B}.
+
+\bibitem[Bundy et~al.(2015)Bundy, Leauthaud, Saito, Bolton, Lin, Maraston,
+  Nichol, Schneider, Thomas, and Wake]{Bundy2015}
+K.~Bundy, A.~Leauthaud, S.~Saito, A.~Bolton, Y.-T. Lin, C.~Maraston, R.~C.
+  Nichol, D.~P. Schneider, D.~Thomas, and D.~A. Wake.
+\newblock The stripe 82 massive galaxy project. i. catalog construction.
+\newblock \emph{\apjs}, 221:\penalty0 15, November 2015.
+\newblock \doi{10.1088/0067-0049/221/1/15}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2015ApJS..221...15B}.
+
+\bibitem[Bunker et~al.(2004)Bunker, Stanway, Ellis, and
+  McMahon]{2004MNRAS.355..374B}
+A.~J. Bunker, E.~R. Stanway, R.~S. Ellis, and R.~G. McMahon.
+\newblock The star formation rate of the universe at z\~{} 6 from the hubble
+  ultra-deep field.
+\newblock \emph{\mnras}, 355:\penalty0 374--384, December 2004.
+\newblock \doi{10.1111/j.1365-2966.2004.08326.x}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2004MNRAS.355..374B}.
+
+\bibitem[Carliles et~al.(2008)Carliles, Budav{\'a}ri, Heinis, Priebe, and
+  Szalay]{2008ASPC..394..521C}
+S.~Carliles, T.~Budav{\'a}ri, S.~Heinis, C.~Priebe, and A.~Szalay.
+\newblock Photometric redshift estimation on sdss data using random forests.
+\newblock In R.~W. {Argyle}, P.~S. {Bunclark}, and J.~R. {Lewis}, editors,
+  \emph{Astronomical Data Analysis Software and Systems XVII}, volume 394 of
+  \emph{Astronomical Society of the Pacific Conference Series}, page 521,
+  August 2008.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2008ASPC..394..521C}.
+
+\bibitem[Chabrier(2003)]{2003PASP..115..763C}
+G.~Chabrier.
+\newblock Galactic stellar and substellar initial mass function.
+\newblock \emph{\pasp}, 115:\penalty0 763--795, July 2003.
+\newblock \doi{10.1086/376392}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2003PASP..115..763C}.
+
+\bibitem[Collister and Lahav(2004)]{2004PASP..116..345C}
+A.~A. Collister and O.~Lahav.
+\newblock Annz: Estimating photometric redshifts using artificial neural
+  networks.
+\newblock \emph{\pasp}, 116:\penalty0 345--351, April 2004.
+\newblock \doi{10.1086/383254}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2004PASP..116..345C}.
+
+\bibitem[Erb et~al.(2010)Erb, Pettini, Shapley, Steidel, Law, and
+  Reddy]{2010ApJ...719.1168E}
+D.~K. Erb, M.~Pettini, A.~E. Shapley, C.~C. Steidel, D.~R. Law, and N.~A.
+  Reddy.
+\newblock Physical conditions in a young, unreddened, low-metallicity galaxy at
+  high redshift.
+\newblock \emph{\apj}, 719:\penalty0 1168--1190, August 2010.
+\newblock \doi{10.1088/0004-637X/719/2/1168}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2010ApJ...719.1168E}.
+
+\bibitem[Graham and Dey(1996)]{Graham1996a}
+J.~R. Graham and A.~Dey.
+\newblock The redshift of an extremely red object and the nature of the very
+  red galaxy population.
+\newblock \emph{\apj}, 471:\penalty0 720, November 1996.
+\newblock \doi{10.1086/178000}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1996ApJ...471..720G}.
+
+\bibitem[Gunn et~al.(1998)Gunn, Carr, Rockosi, Sekiguchi, Berry, Elms, de~Haas,
+  Ivezi{\'c}, Knapp, Lupton, Pauls, Simcoe, Hirsch, Sanford, Wang, York,
+  Harris, Annis, Bartozek, Boroski, Bakken, Haldeman, Kent, Holm, Holmgren,
+  Petravick, Prosapio, Rechenmacher, Doi, Fukugita, Shimasaku, Okada, Hull,
+  Siegmund, Mannery, Blouke, Heidtman, Schneider, Lucinio, and
+  Brinkman]{1998AJ....116.3040G}
+J.~E. Gunn, M.~Carr, C.~Rockosi, M.~Sekiguchi, K.~Berry, B.~Elms, E.~de~Haas,
+  {\v Z}.~Ivezi{\'c}, G.~Knapp, R.~Lupton, G.~Pauls, R.~Simcoe, R.~Hirsch,
+  D.~Sanford, S.~Wang, D.~York, F.~Harris, J.~Annis, L.~Bartozek, W.~Boroski,
+  J.~Bakken, M.~Haldeman, S.~Kent, S.~Holm, D.~Holmgren, D.~Petravick,
+  A.~Prosapio, R.~Rechenmacher, M.~Doi, M.~Fukugita, K.~Shimasaku, N.~Okada,
+  C.~Hull, W.~Siegmund, E.~Mannery, M.~Blouke, D.~Heidtman, D.~Schneider,
+  R.~Lucinio, and J.~Brinkman.
+\newblock The sloan digital sky survey photometric camera.
+\newblock \emph{\aj}, 116:\penalty0 3040--3081, December 1998.
+\newblock \doi{10.1086/300645}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1998AJ....116.3040G}.
+
+\bibitem[Huff et~al.(2014)Huff, Hirata, Mandelbaum, Schlegel, Seljak, and
+  Lupton]{2014MNRAS.440.1296H}
+E.~M. Huff, C.~M. Hirata, R.~Mandelbaum, D.~Schlegel, U.~Seljak, and R.~H.
+  Lupton.
+\newblock Seeing in the dark - i. multi-epoch alchemy.
+\newblock \emph{\mnras}, 440:\penalty0 1296--1321, May 2014.
+\newblock \doi{10.1093/mnras/stu144}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014MNRAS.440.1296H}.
+
+\bibitem[Jiang et~al.(2009)Jiang, Fan, Bian, Annis, Chiu, Jester, Lin, Lupton,
+  Richards, Strauss, Malanushenko, Malanushenko, and
+  Schneider]{2009AJ....138..305J}
+L.~Jiang, X.~Fan, F.~Bian, J.~Annis, K.~Chiu, S.~Jester, H.~Lin, R.~H. Lupton,
+  G.~T. Richards, M.~A. Strauss, V.~Malanushenko, E.~Malanushenko, and D.~P.
+  Schneider.
+\newblock A survey of z \~{} 6 quasars in the sloan digital sky survey deep
+  stripe. ii.
+\newblock \emph{\aj}, 138:\penalty0 305--311, July 2009.
+\newblock \doi{10.1088/0004-6256/138/1/305}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2009AJ....138..305J}.
+
+\bibitem[Jiang et~al.(2014)Jiang, Fan, Bian, McGreer, Strauss, Annis, Buck,
+  Green, Hodge, Myers, Rafiee, and Richards]{Jiang2014}
+L.~Jiang, X.~Fan, F.~Bian, I.~D. McGreer, M.~A. Strauss, J.~Annis, Z.~Buck,
+  R.~Green, J.~A. Hodge, A.~D. Myers, A.~Rafiee, and G.~Richards.
+\newblock The sloan digital sky survey stripe 82 imaging data: Depth-optimized
+  co-adds over 300 deg$^{2}$ in five filters.
+\newblock \emph{\apjs}, 213:\penalty0 12, July 2014.
+\newblock \doi{10.1088/0067-0049/213/1/12}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014ApJS..213...12J}.
+
+\bibitem[Kennicutt(1998)]{Kennicutt1998b}
+R.~C. Kennicutt, Jr.
+\newblock The global schmidt law in star-forming galaxies.
+\newblock \emph{\apj}, 498:\penalty0 541--552, May 1998.
+\newblock \doi{10.1086/305588}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1998ApJ...498..541K}.
+
+\bibitem[Kriek et~al.(2018)Kriek, van Dokkum, Labb{\'e}, Franx, Illingworth,
+  Marchesini, Quadri, Aird, Coil, and Georgakakis]{2018ascl.soft03008K}
+M.~Kriek, P.~G. van Dokkum, I.~Labb{\'e}, M.~Franx, G.~D. Illingworth,
+  D.~Marchesini, R.~F. Quadri, J.~Aird, A.~L. Coil, and A.~Georgakakis.
+\newblock Fast: Fitting and assessment of synthetic templates.
+\newblock Astrophysics Source Code Library, March 2018.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2018ascl.soft03008K}.
+
+\bibitem[Kron(1980)]{Kron1980}
+R.~G. Kron.
+\newblock Photometry of a complete sample of faint galaxies.
+\newblock \emph{\apjs}, 43:\penalty0 305--325, June 1980.
+\newblock \doi{10.1086/190669}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1980ApJS...43..305K}.
+
+\bibitem[Kroupa(2001)]{2001MNRAS.322..231K}
+P.~Kroupa.
+\newblock On the variation of the initial mass function.
+\newblock \emph{\mnras}, 322:\penalty0 231--246, April 2001.
+\newblock \doi{10.1046/j.1365-8711.2001.04022.x}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2001MNRAS.322..231K}.
+
+\bibitem[Lang(2014)]{Lang2014e}
+D.~Lang.
+\newblock unwise: Unblurred coadds of the wise imaging.
+\newblock \emph{\aj}, 147:\penalty0 108, May 2014.
+\newblock \doi{10.1088/0004-6256/147/5/108}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014AJ....147..108L}.
+
+\bibitem[Lilly et~al.(1996)Lilly, Le~Fevre, Hammer, and
+  Crampton]{1996ApJ...460L...1L}
+S.~J. Lilly, O.~Le~Fevre, F.~Hammer, and D.~Crampton.
+\newblock The canada-france redshift survey: The luminosity density and star
+  formation history of the universe to z approximately 1.
+\newblock \emph{\apjl}, 460:\penalty0 L1, March 1996.
+\newblock \doi{10.1086/309975}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1996ApJ...460L...1L}.
+
+\bibitem[Lucy(1974)]{Lucy1974}
+L.~B. Lucy.
+\newblock An iterative technique for the rectification of observed
+  distributions.
+\newblock \emph{\aj}, 79:\penalty0 745, June 1974.
+\newblock \doi{10.1086/111605}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1974AJ.....79..745L}.
+
+\bibitem[Madau and Dickinson(2014)]{Madau2014}
+P.~Madau and M.~Dickinson.
+\newblock Cosmic star-formation history.
+\newblock \emph{\araa}, 52:\penalty0 415--486, August 2014.
+\newblock \doi{10.1146/annurev-astro-081811-125615}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014ARA%26A..52..415M}.
+
+\bibitem[Madau et~al.(1996)Madau, Ferguson, Dickinson, Giavalisco, Steidel, and
+  Fruchter]{1996MNRAS.283.1388M}
+P.~Madau, H.~C. Ferguson, M.~E. Dickinson, M.~Giavalisco, C.~C. Steidel, and
+  A.~Fruchter.
+\newblock High-redshift galaxies in the hubble deep field: colour selection and
+  star formation history to z\~{}4.
+\newblock \emph{\mnras}, 283:\penalty0 1388--1404, December 1996.
+\newblock \doi{10.1093/mnras/283.4.1388}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1996MNRAS.283.1388M}.
+
+\bibitem[Mainzer et~al.(2011)Mainzer, Bauer, Grav, Masiero, Cutri, Dailey,
+  Eisenhardt, McMillan, Wright, Walker, Jedicke, Spahr, Tholen, Alles, Beck,
+  Brandenburg, Conrow, Evans, Fowler, Jarrett, Marsh, Masci, McCallon,
+  Wheelock, Wittman, Wyatt, DeBaun, Elliott, Elsbury, Gautier, Gomillion,
+  Leisawitz, Maleszewski, Micheli, and Wilkins]{2011ApJ...731...53M}
+A.~Mainzer, J.~Bauer, T.~Grav, J.~Masiero, R.~M. Cutri, J.~Dailey,
+  P.~Eisenhardt, R.~S. McMillan, E.~Wright, R.~Walker, R.~Jedicke, T.~Spahr,
+  D.~Tholen, R.~Alles, R.~Beck, H.~Brandenburg, T.~Conrow, T.~Evans, J.~Fowler,
+  T.~Jarrett, K.~Marsh, F.~Masci, H.~McCallon, S.~Wheelock, M.~Wittman,
+  P.~Wyatt, E.~DeBaun, G.~Elliott, D.~Elsbury, T.~Gautier, IV, S.~Gomillion,
+  D.~Leisawitz, C.~Maleszewski, M.~Micheli, and A.~Wilkins.
+\newblock Preliminary results from neowise: An enhancement to the wide-field
+  infrared survey explorer for solar system science.
+\newblock \emph{\apj}, 731:\penalty0 53, April 2011.
+\newblock \doi{10.1088/0004-637X/731/1/53}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011ApJ...731...53M}.
+
+\bibitem[Meisner et~al.(2017)Meisner, Lang, and Schlegel]{1538-3881-154-4-161}
+A.~M. Meisner, D.~Lang, and D.~J. Schlegel.
+\newblock Deep full-sky coadds from three years of wise and neowise
+  observations.
+\newblock \emph{The Astronomical Journal}, 154\penalty0 (4):\penalty0 161,
+  2017.
+\newblock URL \url{http://stacks.iop.org/1538-3881/154/i=4/a=161}.
+
+\bibitem[Merlin et~al.(2016)Merlin, Bourne, Castellano, Ferguson, Wang,
+  Derriere, Dunlop, Elbaz, and Fontana]{Merlin2016a}
+E.~Merlin, N.~Bourne, M.~Castellano, H.~C. Ferguson, T.~Wang, S.~Derriere,
+  J.~S. Dunlop, D.~Elbaz, and A.~Fontana.
+\newblock T-phot version 2.0: Improved algorithms for background subtraction,
+  local convolution, kernel registration, and new options.
+\newblock \emph{Astronomy and Astrophysics}, 595:\penalty0 A97, November 2016.
+\newblock \doi{10.1051/0004-6361/201628751}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2016A%26A...595A..97M}.
+
+\bibitem[Mink(1998)]{Mink1998b}
+D.~J. Mink.
+\newblock Wcstools: an image astrometry toolkit.
+\newblock In \emph{AAS/Division of Dynamical Astronomy Meeting}, volume~30 of
+  \emph{Bulletin of the American Astronomical Society}, page 1144, September
+  1998.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1998DDA....29.0806M}.
+
+\bibitem[Moustakas et~al.(2013)Moustakas, Coil, Aird, Blanton, Cool,
+  Eisenstein, Mendez, Wong, Zhu, and Arnouts]{2013ApJ...767...50M}
+J.~Moustakas, A.~L. Coil, J.~Aird, M.~R. Blanton, R.~J. Cool, D.~J. Eisenstein,
+  A.~J. Mendez, K.~C. Wong, G.~Zhu, and S.~Arnouts.
+\newblock Primus: Constraints on star formation quenching and galaxy merging,
+  and the evolution of the stellar mass function from z = 0-1.
+\newblock \emph{\apj}, 767:\penalty0 50, April 2013.
+\newblock \doi{10.1088/0004-637X/767/1/50}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2013ApJ...767...50M}.
+
+\bibitem[Musin and Yan(in prep.)]{Musin2018}
+M.~Musin and H.~Yan.
+\newblock Synergy of wise and sdss in stripe 82.
+\newblock \emph{in press.}, in prep.
+
+\bibitem[Muzzin et~al.(2013)Muzzin, Marchesini, Stefanon, Franx, McCracken,
+  Milvang-Jensen, Dunlop, Fynbo, Brammer, Labb{\'e}, and van
+  Dokkum]{2013ApJ...777...18M}
+A.~Muzzin, D.~Marchesini, M.~Stefanon, M.~Franx, H.~J. McCracken,
+  B.~Milvang-Jensen, J.~S. Dunlop, J.~P.~U. Fynbo, G.~Brammer, I.~Labb{\'e},
+  and P.~G. van Dokkum.
+\newblock The evolution of the stellar mass functions of star-forming and
+  quiescent galaxies to z = 4 from the cosmos/ultravista survey.
+\newblock \emph{\apj}, 777:\penalty0 18, November 2013.
+\newblock \doi{10.1088/0004-637X/777/1/18}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2013ApJ...777...18M}.
+
+\bibitem[Negrello et~al.(2009)Negrello, Serjeant, Pearson, Takagi, Efstathiou,
+  Goto, Burgarella, Jeong, Im, Lee, Matsuhara, Oyabu, Wada, and
+  White]{2009MNRAS.394..375N}
+M.~Negrello, S.~Serjeant, C.~Pearson, T.~Takagi, A.~Efstathiou, T.~Goto,
+  D.~Burgarella, W.-S. Jeong, M.~Im, H.~M. Lee, H.~Matsuhara, S.~Oyabu,
+  T.~Wada, and G.~White.
+\newblock Photometric redshift accuracy in akari deep surveys.
+\newblock \emph{\mnras}, 394:\penalty0 375--397, March 2009.
+\newblock \doi{10.1111/j.1365-2966.2008.14293.x}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2009MNRAS.394..375N}.
+
+\bibitem[Neugebauer et~al.(1984)Neugebauer, Habing, van Duinen, Aumann, Baud,
+  Beichman, Beintema, Boggess, Clegg, de~Jong, Emerson, Gautier, Gillett,
+  Harris, Hauser, Houck, Jennings, Low, Marsden, Miley, Olnon, Pottasch,
+  Raimond, Rowan-Robinson, Soifer, Walker, Wesselius, and
+  Young]{Neugebauer1984}
+G.~Neugebauer, H.~J. Habing, R.~van Duinen, H.~H. Aumann, B.~Baud, C.~A.
+  Beichman, D.~A. Beintema, N.~Boggess, P.~E. Clegg, T.~de~Jong, J.~P. Emerson,
+  T.~N. Gautier, F.~C. Gillett, S.~Harris, M.~G. Hauser, J.~R. Houck, R.~E.
+  Jennings, F.~J. Low, P.~L. Marsden, G.~Miley, F.~M. Olnon, S.~R. Pottasch,
+  E.~Raimond, M.~Rowan-Robinson, B.~T. Soifer, R.~G. Walker, P.~R. Wesselius,
+  and E.~Young.
+\newblock The infrared astronomical satellite (iras) mission.
+\newblock \emph{\apjl}, 278:\penalty0 L1--L6, March 1984.
+\newblock \doi{10.1086/184209}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1984ApJ...278L...1N}.
+
+\bibitem[Papovich et~al.(2016)Papovich, Shipley, Mehrtens, Lanham, Lacy,
+  Ciardullo, Finkelstein, Bassett, Behroozi, Blanc, de~Jong, DePoy, Drory,
+  Gawiser, Gebhardt, Gronwall, Hill, Hopp, Jogee, Kawinwanichakij, Marshall,
+  McLinden, Mentuch~Cooper, Somerville, Steinmetz, Tran, Tuttle, Viero,
+  Wechsler, and Zeimann]{Papovich2016}
+C.~Papovich, H.~V. Shipley, N.~Mehrtens, C.~Lanham, M.~Lacy, R.~Ciardullo,
+  S.~L. Finkelstein, R.~Bassett, P.~Behroozi, G.~A. Blanc, R.~S. de~Jong, D.~L.
+  DePoy, N.~Drory, E.~Gawiser, K.~Gebhardt, C.~Gronwall, G.~J. Hill, U.~Hopp,
+  S.~Jogee, L.~Kawinwanichakij, J.~L. Marshall, E.~McLinden, E.~Mentuch~Cooper,
+  R.~S. Somerville, M.~Steinmetz, K.-V. Tran, S.~Tuttle, M.~Viero, R.~Wechsler,
+  and G.~Zeimann.
+\newblock The spitzer-hetdex exploratory large-area survey.
+\newblock \emph{\apjs}, 224:\penalty0 28, June 2016.
+\newblock \doi{10.3847/0067-0049/224/2/28}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2016ApJS..224...28P}.
+
+\bibitem[Pence et~al.(2010)Pence, Chiappetti, Page, Shaw, and
+  Stobie]{Pence2010}
+W.~D. Pence, L.~Chiappetti, C.~G. Page, R.~A. Shaw, and E.~Stobie.
+\newblock Definition of the flexible image transport system (fits), version
+  3.0.
+\newblock \emph{Astronomy and Astrophysics}, 524:\penalty0 A42, December 2010.
+\newblock \doi{10.1051/0004-6361/201015362}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2010A%26A...524A..42P}.
+
+\bibitem[Richardson(1972)]{Richardson1972}
+W.~H. Richardson.
+\newblock Bayesian-based iterative method of image restoration.
+\newblock \emph{Journal of the Optical Society of America (1917-1983)},
+  62:\penalty0 55, January 1972.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1972JOSA...62...55R}.
+
+\bibitem[Rowan-Robinson et~al.(2008)Rowan-Robinson, Babbedge, Oliver, Trichas,
+  Berta, Lonsdale, Smith, Shupe, Surace, Arnouts, Ilbert, Le~F{\'e}vre,
+  Afonso-Luis, Perez-Fournon, Hatziminaoglou, Polletta, Farrah, and
+  Vaccari]{Rowan-Robinson2008}
+M.~Rowan-Robinson, T.~Babbedge, S.~Oliver, M.~Trichas, S.~Berta, C.~Lonsdale,
+  G.~Smith, D.~Shupe, J.~Surace, S.~Arnouts, O.~Ilbert, O.~Le~F{\'e}vre,
+  A.~Afonso-Luis, I.~Perez-Fournon, E.~Hatziminaoglou, M.~Polletta, D.~Farrah,
+  and M.~Vaccari.
+\newblock Photometric redshifts in the swire survey.
+\newblock \emph{\mnras}, 386:\penalty0 697--714, May 2008.
+\newblock \doi{10.1111/j.1365-2966.2008.13109.x}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2008MNRAS.386..697R}.
+
+\bibitem[Rozo et~al.(2015)Rozo, Rykoff, Becker, Reddick, and
+  Wechsler]{2015MNRAS.453...38R}
+E.~Rozo, E.~S. Rykoff, M.~Becker, R.~M. Reddick, and R.~H. Wechsler.
+\newblock redmapper - iv. photometric membership identification of red cluster
+  galaxies with 1 per cent precision.
+\newblock \emph{\mnras}, 453:\penalty0 38--52, October 2015.
+\newblock \doi{10.1093/mnras/stv1560}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2015MNRAS.453...38R}.
+
+\bibitem[Rykoff et~al.(2014)Rykoff, Rozo, Busha, Cunha, Finoguenov, Evrard,
+  Hao, Koester, Leauthaud, Nord, Pierre, Reddick, Sadibekova, Sheldon, and
+  Wechsler]{2014ApJ...785..104R}
+E.~S. Rykoff, E.~Rozo, M.~T. Busha, C.~E. Cunha, A.~Finoguenov, A.~Evrard,
+  J.~Hao, B.~P. Koester, A.~Leauthaud, B.~Nord, M.~Pierre, R.~Reddick,
+  T.~Sadibekova, E.~S. Sheldon, and R.~H. Wechsler.
+\newblock redmapper. i. algorithm and sdss dr8 catalog.
+\newblock \emph{\apj}, 785:\penalty0 104, April 2014.
+\newblock \doi{10.1088/0004-637X/785/2/104}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2014ApJ...785..104R}.
+
+\bibitem[Salpeter(1955)]{1955ApJ...121..161S}
+E.~E. Salpeter.
+\newblock The luminosity function and stellar evolution.
+\newblock \emph{\apj}, 121:\penalty0 161, January 1955.
+\newblock \doi{10.1086/145971}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1955ApJ...121..161S}.
+
+\bibitem[Schmidt(1959)]{Schmidt1959}
+M.~Schmidt.
+\newblock The rate of star formation.
+\newblock \emph{\apj}, 129:\penalty0 243, March 1959.
+\newblock \doi{10.1086/146614}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1959ApJ...129..243S}.
+
+\bibitem[Silverberg et~al.(1993)Silverberg, Hauser, Boggess, Kelsall, Moseley,
+  and Murdock]{Silverberg1993}
+R.~F. Silverberg, M.~G. Hauser, N.~W. Boggess, T.~J. Kelsall, S.~H. Moseley,
+  and T.~L. Murdock.
+\newblock Design of the diffuse infrared background experiment (dirbe) on cobe.
+\newblock In M.~S. {Scholl}, editor, \emph{Infrared Spaceborne Remote Sensing},
+  volume 2019 of \emph{\procspie}, pages 180--189, October 1993.
+\newblock \doi{10.1117/12.157825}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/1993SPIE.2019..180S}.
+
+\bibitem[Singal et~al.(2011)Singal, Shmakova, Gerke, Griffith, and
+  Lotz]{2011PASP..123..615S}
+J.~Singal, M.~Shmakova, B.~Gerke, R.~L. Griffith, and J.~Lotz.
+\newblock The efficacy of galaxy shape parameters in photometric redshift
+  estimation: A neural network approach.
+\newblock \emph{\pasp}, 123:\penalty0 615, May 2011.
+\newblock \doi{10.1086/660155}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011PASP..123..615S}.
+
+\bibitem[Smee et~al.(2011)Smee, Barkhouser, Scharfstein, Meixner, Orndorff, and
+  Miller]{Smee2011a}
+S.~A. Smee, R.~H. Barkhouser, G.~A. Scharfstein, M.~Meixner, J.~D. Orndorff,
+  and T.~Miller.
+\newblock Design of the wiyn high resolution infrared camera (whirc).
+\newblock \emph{\pasp}, 123:\penalty0 87, January 2011.
+\newblock \doi{10.1086/658238}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011PASP..123...87S}.
+
+\bibitem[Staff(1966)]{Staff1966}
+SAO Staff.
+\newblock Smithsonian astrophysical observatory star catalog.
+\newblock \emph{Smithsonian publ. 4652}, 1966.
+
+\bibitem[Taylor(2006)]{Taylor2006}
+M.~B. Taylor.
+\newblock Stilts - a package for command-line processing of tabular data.
+\newblock In C.~{Gabriel}, C.~{Arviset}, D.~{Ponz}, and S.~{Enrique}, editors,
+  \emph{Astronomical Data Analysis Software and Systems XV}, volume 351 of
+  \emph{Astronomical Society of the Pacific Conference Series}, page 666, July
+  2006.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2006ASPC..351..666T}.
+
+\bibitem[Walcher et~al.(2011)Walcher, Groves, Budav{\'a}ri, and
+  Dale]{Walcher2011}
+J.~Walcher, B.~Groves, T.~Budav{\'a}ri, and D.~Dale.
+\newblock Fitting the integrated spectral energy distributions of galaxies.
+\newblock \emph{\apss}, 331:\penalty0 1--52, January 2011.
+\newblock \doi{10.1007/s10509-010-0458-z}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2011Ap%26SS.331....1W}.
+
+\bibitem[Wright et~al.(2010)Wright, Eisenhardt, Mainzer, Ressler, Cutri,
+  Jarrett, Kirkpatrick, Padgett, McMillan, Skrutskie, Stanford, Cohen, Walker,
+  Mather, Leisawitz, Gautier, McLean, Benford, Lonsdale, Blain, Mendez, Irace,
+  Duval, Liu, Royer, Heinrichsen, Howard, Shannon, Kendall, Walsh, Larsen,
+  Cardon, Schick, Schwalm, Abid, Fabinsky, Naes, and Tsai]{Wright2010}
+E.~L. Wright, P.~R.~M. Eisenhardt, A.~K. Mainzer, M.~E. Ressler, R.~M. Cutri,
+  T.~Jarrett, J.~D. Kirkpatrick, D.~Padgett, R.~S. McMillan, M.~Skrutskie,
+  S.~A. Stanford, M.~Cohen, R.~G. Walker, J.~C. Mather, D.~Leisawitz, T.~N.
+  Gautier, III, I.~McLean, D.~Benford, C.~J. Lonsdale, A.~Blain, B.~Mendez,
+  W.~R. Irace, V.~Duval, F.~Liu, D.~Royer, I.~Heinrichsen, J.~Howard,
+  M.~Shannon, M.~Kendall, A.~L. Walsh, M.~Larsen, J.~G. Cardon, S.~Schick,
+  M.~Schwalm, M.~Abid, B.~Fabinsky, L.~Naes, and C.-W. Tsai.
+\newblock The wide-field infrared survey explorer (wise): Mission description
+  and initial on-orbit performance.
+\newblock \emph{\aj}, 140:\penalty0 1868-1881, December 2010.
+\newblock \doi{10.1088/0004-6256/140/6/1868}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2010AJ....140.1868W}.
+
+\bibitem[Yan et~al.(2004)Yan, Thompson, and Soifer]{Yan2004}
+L.~Yan, D.~Thompson, and B.~T. Soifer.
+\newblock Optical spectroscopy of k-selected extremely red galaxies.
+\newblock \emph{\aj}, 127:\penalty0 1274--1284, March 2004.
+\newblock \doi{10.1086/382098}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2004AJ....127.1274Y}.
+
+\bibitem[York et~al.(2000)York, Adelman, Anderson, Anderson, Annis, Bahcall,
+  Bakken, Barkhouser, Bastian, Berman, Boroski, Bracker, Briegel, Briggs,
+  Brinkmann, Brunner, Burles, Carey, Carr, Castander, Chen, Colestock,
+  Connolly, Crocker, Csabai, Czarapata, Davis, Doi, Dombeck, Eisenstein,
+  Ellman, Elms, Evans, Fan, Federwitz, Fiscelli, Friedman, Frieman, Fukugita,
+  Gillespie, Gunn, Gurbani, de~Haas, Haldeman, Harris, Hayes, Heckman,
+  Hennessy, Hindsley, Holm, Holmgren, Huang, Hull, Husby, Ichikawa, Ichikawa,
+  Ivezi{\'c}, Kent, Kim, Kinney, Klaene, Kleinman, Kleinman, Knapp, Korienek,
+  Kron, Kunszt, Lamb, Lee, Leger, Limmongkol, Lindenmeyer, Long, Loomis,
+  Loveday, Lucinio, Lupton, MacKinnon, Mannery, Mantsch, Margon, McGehee,
+  McKay, Meiksin, Merelli, Monet, Munn, Narayanan, Nash, Neilsen, Neswold,
+  Newberg, Nichol, Nicinski, Nonino, Okada, Okamura, Ostriker, Owen, Pauls,
+  Peoples, Peterson, Petravick, Pier, Pope, Pordes, Prosapio, Rechenmacher,
+  Quinn, Richards, Richmond, Rivetta, Rockosi, Ruthmansdorfer, Sandford,
+  Schlegel, Schneider, Sekiguchi, Sergey, Shimasaku, Siegmund, Smee, Smith,
+  Snedden, Stone, Stoughton, Strauss, Stubbs, SubbaRao, Szalay, Szapudi,
+  Szokoly, Thakar, Tremonti, Tucker, Uomoto, Vanden~Berk, Vogeley, Waddell,
+  Wang, Watanabe, Weinberg, Yanny, Yasuda, and Collaboration]{York2000}
+D.~G. York, J.~Adelman, J.~E. Anderson, Jr., S.~F. Anderson, J.~Annis, N.~A.
+  Bahcall, J.~A. Bakken, R.~Barkhouser, S.~Bastian, E.~Berman, W.~N. Boroski,
+  S.~Bracker, C.~Briegel, J.~W. Briggs, J.~Brinkmann, R.~Brunner, S.~Burles,
+  L.~Carey, M.~A. Carr, F.~J. Castander, B.~Chen, P.~L. Colestock, A.~J.
+  Connolly, J.~H. Crocker, I.~Csabai, P.~C. Czarapata, J.~E. Davis, M.~Doi,
+  T.~Dombeck, D.~Eisenstein, N.~Ellman, B.~R. Elms, M.~L. Evans, X.~Fan, G.~R.
+  Federwitz, L.~Fiscelli, S.~Friedman, J.~A. Frieman, M.~Fukugita,
+  B.~Gillespie, J.~E. Gunn, V.~K. Gurbani, E.~de~Haas, M.~Haldeman, F.~H.
+  Harris, J.~Hayes, T.~M. Heckman, G.~S. Hennessy, R.~B. Hindsley, S.~Holm,
+  D.~J. Holmgren, C.-h. Huang, C.~Hull, D.~Husby, S.-I. Ichikawa, T.~Ichikawa,
+  {\v Z}.~Ivezi{\'c}, S.~Kent, R.~S.~J. Kim, E.~Kinney, M.~Klaene, A.~N.
+  Kleinman, S.~Kleinman, G.~R. Knapp, J.~Korienek, R.~G. Kron, P.~Z. Kunszt,
+  D.~Q. Lamb, B.~Lee, R.~F. Leger, S.~Limmongkol, C.~Lindenmeyer, D.~C. Long,
+  C.~Loomis, J.~Loveday, R.~Lucinio, R.~H. Lupton, B.~MacKinnon, E.~J. Mannery,
+  P.~M. Mantsch, B.~Margon, P.~McGehee, T.~A. McKay, A.~Meiksin, A.~Merelli,
+  D.~G. Monet, J.~A. Munn, V.~K. Narayanan, T.~Nash, E.~Neilsen, R.~Neswold,
+  H.~J. Newberg, R.~C. Nichol, T.~Nicinski, M.~Nonino, N.~Okada, S.~Okamura,
+  J.~P. Ostriker, R.~Owen, A.~G. Pauls, J.~Peoples, R.~L. Peterson,
+  D.~Petravick, J.~R. Pier, A.~Pope, R.~Pordes, A.~Prosapio, R.~Rechenmacher,
+  T.~R. Quinn, G.~T. Richards, M.~W. Richmond, C.~H. Rivetta, C.~M. Rockosi,
+  K.~Ruthmansdorfer, D.~Sandford, D.~J. Schlegel, D.~P. Schneider,
+  M.~Sekiguchi, G.~Sergey, K.~Shimasaku, W.~A. Siegmund, S.~Smee, J.~A. Smith,
+  S.~Snedden, R.~Stone, C.~Stoughton, M.~A. Strauss, C.~Stubbs, M.~SubbaRao,
+  A.~S. Szalay, I.~Szapudi, G.~P. Szokoly, A.~R. Thakar, C.~Tremonti, D.~L.
+  Tucker, A.~Uomoto, D.~Vanden~Berk, M.~S. Vogeley, P.~Waddell, S.-i. Wang,
+  M.~Watanabe, D.~H. Weinberg, B.~Yanny, N.~Yasuda, and SDSS Collaboration.
+\newblock The sloan digital sky survey: Technical summary.
+\newblock \emph{\aj}, 120:\penalty0 1579--1587, September 2000.
+\newblock \doi{10.1086/301513}.
+\newblock URL \url{http://adsabs.harvard.edu/abs/2000AJ....120.1579Y}.
+
+\end{thebibliography}
