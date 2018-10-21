@@ -1,38 +1,38 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: ThesisMaster.aux
 The style file: plainnat.bst
 Database file #1: ThesisMaster.bib
 You've used 62 entries,
             2773 wiz_defined-function locations,
-            1110 strings with 26175 characters,
-and the built_in function-call counts, 51811 in all, are:
-= -- 4038
-> -- 5718
+            1110 strings with 26171 characters,
+and the built_in function-call counts, 51746 in all, are:
+= -- 4032
+> -- 5707
 < -- 36
-+ -- 1914
-- -- 1851
-* -- 5295
-:= -- 8693
++ -- 1911
+- -- 1848
+* -- 5287
+:= -- 8684
 add.period$ -- 293
 call.type$ -- 62
-change.case$ -- 798
+change.case$ -- 797
 chr.to.int$ -- 61
 cite$ -- 124
 duplicate$ -- 1320
 empty$ -- 2291
-format.name$ -- 1931
-if$ -- 10186
+format.name$ -- 1926
+if$ -- 10172
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 57
 newline$ -- 425
 num.names$ -- 258
-pop$ -- 1438
+pop$ -- 1437
 preamble$ -- 1
-purify$ -- 736
+purify$ -- 735
 quote$ -- 0
-skip$ -- 1376
+skip$ -- 1373
 stack$ -- 0
 substring$ -- 769
 swap$ -- 186

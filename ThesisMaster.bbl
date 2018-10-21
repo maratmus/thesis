@@ -5,8 +5,8 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Adelman-McCarthy and et~al.(2007)]{Adelman-McCarthy2007}
-J.~K. Adelman-McCarthy and et~al.
+\bibitem[Adelman-McCarthy(2007)]{Adelman-McCarthy2007}
+J.~K. et~al. Adelman-McCarthy.
 \newblock Vizier online data catalog: The sdss photometric catalog, release 5
   (adelman-mccarthy+, 2007).
 \newblock \emph{VizieR Online Data Catalog}, 2276, March 2007.
